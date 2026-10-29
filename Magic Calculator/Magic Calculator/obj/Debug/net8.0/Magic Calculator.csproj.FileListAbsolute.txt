@@ -1,0 +1,28 @@
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\bin\Debug\net8.0\Magic Calculator.exe
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\bin\Debug\net8.0\Magic Calculator.deps.json
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\bin\Debug\net8.0\Magic Calculator.runtimeconfig.json
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\bin\Debug\net8.0\Magic Calculator.dll
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\bin\Debug\net8.0\Magic Calculator.pdb
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.AssemblyInfoInputs.cache
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.AssemblyInfo.cs
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.dll
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\obj\Debug\net8.0\refint\Magic Calculator.dll
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.pdb
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.genruntimeconfig.cache
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\Magic Calculator\Magic Calculator\obj\Debug\net8.0\ref\Magic Calculator.dll
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\bin\Debug\net8.0\Magic Calculator.exe
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\bin\Debug\net8.0\Magic Calculator.deps.json
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\bin\Debug\net8.0\Magic Calculator.runtimeconfig.json
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\bin\Debug\net8.0\Magic Calculator.dll
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\bin\Debug\net8.0\Magic Calculator.pdb
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.AssemblyInfoInputs.cache
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.AssemblyInfo.cs
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.dll
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\obj\Debug\net8.0\refint\Magic Calculator.dll
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.pdb
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\obj\Debug\net8.0\Magic Calculator.genruntimeconfig.cache
+C:\Users\PRAKA5\OneDrive - Otago Polytechnic\SEM 1\Magic Calculator\Magic Calculator\obj\Debug\net8.0\ref\Magic Calculator.dll
